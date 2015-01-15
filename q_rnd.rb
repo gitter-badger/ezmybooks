@@ -1,5 +1,5 @@
 # Example provided by
-# @FluffyPira (Elizabeth Wetton), with help from @friendlycatduck (Marie )
+# @FluffyPira (Elizabeth Wetton), with help from @friendlycatduck (Marie Markwell)
 # pulling a specific line
  
 if tweet.text.start_with?('Q')
